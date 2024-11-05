@@ -28,7 +28,7 @@ Please review the updated code structure and newly added dependencies for datase
 ## 🏗 Setup
 1. Clone and set up the HOV-SG repository
 ```bash
-git clone https://github.com/hovsg/HOV-SG.git
+git clone https://github.com/Seminar-HOV-SG/HOV-SG
 cd HOV-SG
 
 # set up virtual environment and install habitat-sim afterwards separately to avoid errors.
